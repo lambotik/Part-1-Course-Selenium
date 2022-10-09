@@ -6,7 +6,7 @@ try:
 except ZeroDivisionError:
     result = 0
     print('На ноль делить нельзя')
-print('Результат: ' + str(result))
+print('Разница: ' + str(result))
 
 result_2 = a + b
-print(result_2)
+print('Сумма:', result_2)
