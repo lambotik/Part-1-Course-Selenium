@@ -24,7 +24,7 @@ print('Input password')
 login = driver.find_element(By.ID, 'login-button').click()
 print('Click button login')
 """Создаем переменную которая записывает дату и время"""
-now_date = datetime.datetime.utcnow().strftime(' %Y.%m.%d.%H.%M.%S')
+now_date = datetime.datetime.utcnow().strftime(' %d.%m.%Y %H.%M.%S')
 """Создаем переменную screenshot к которой добавляем now_date(так мы получаем уникальное значение имени скриншота). Можно в название скриншота указывать имя конкретного теста к которому он относится"""
 name_screenshot = 'screenshot' + now_date + '.png'
 """Делаем полноэкранный режим"""
