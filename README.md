@@ -17,3 +17,4 @@
 - Урок 4.14 Взаимодействие со скрытым меню [test_using_the_hidden_menu.py]()
 - Урок 4.15 Smoke test business logic [test_smoke_all_business_logic.py]()
 - Урок 4.16 Тестовое задание с проверкой суммы двух продуктов в корзинеSmoke test business logic [test_task_smoke_all_business_logic.py]()
+- Урок 4.17 Перемещение между страницами при помощи стрелок вперед и назад [test_using_arrow_back_and_forward.py]()
