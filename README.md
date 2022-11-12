@@ -15,3 +15,4 @@
 - Урок 4.12 Скроллинг или перемещение к элементу [test_scrolling.py]()
 - Урок 4.13 Очистка полей [test_field_clearing.py]()
 - Урок 4.14 Взаимодействие со скрытым меню [test_using_the_hidden_menu.py]()
+- Урок 4.15 Smoke test business logic [test_smoke_all_business_logic.py]()
