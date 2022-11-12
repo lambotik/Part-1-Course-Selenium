@@ -19,3 +19,4 @@
 - Урок 4.16 Тестовое задание с проверкой суммы двух продуктов в корзинеSmoke test business logic [test_task_smoke_all_business_logic.py](https://github.com/lambotik/Automation-and-Programming-by-Python-and-Selenium/blob/main/python_selenium/test_task_smoke_all_business_logic.py)
 - Урок 4.17 Тестовое задание с проверкой суммы двух продуктов в корзинеSmoke test business logic [test_using_arrow_back_and_forward.py]()
 - Урок 4.18-19 Взаимодействие с checkbox and radiobutton [test_checkbox_and_radio_button.py]()
+- Урок 4.20 Правый клик мыши и двойной клик [test_ussing_buttons.py]()
