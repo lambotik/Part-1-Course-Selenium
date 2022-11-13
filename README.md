@@ -23,4 +23,6 @@
 - Урок 4.22 Тестовое задание с календарем [test_calendar.py](https://github.com/lambotik/Automation-and-Programming-by-Python-and-Selenium/blob/main/python_selenium/test_calendar.py)
 - Урок 4.23 Взаимодействие с ползунком [test_ussing_slider.py](https://github.com/lambotik/Automation-and-Programming-by-Python-and-Selenium/blob/main/python_selenium/test_ussing_slider.py)
 - Урок 4.24 Отработка исключений NoSuchElementException и AssertionError [test_exception_handling.py](https://github.com/lambotik/Automation-and-Programming-by-Python-and-Selenium/blob/main/python_selenium/test_exception_handling.py)
+- Урок 4.25 Использование явного и неявного ожидания driver.implicitly_wait(10) и WebDriverWait(driver, 30).until(
+    EC.element_to_be_clickable[test_explicit_and_implicit_waits.py]()
 - 
