@@ -22,3 +22,5 @@
 - Урок 4.20 Правый клик мыши и двойной клик [test_ussing_buttons.py]()
 - Урок 4.22 Тестовое задание с календарем [test_calendar.py]()
 - Урок 4.23 Взаимодействие с ползунком [test_ussing_slider.py]()
+- Урок 4.24 Отработка исключений NoSuchElementException и AssertionError [test_exception_handling.py]()
+- 
